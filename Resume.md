@@ -18,13 +18,13 @@ I also have experience working in Agile environments, on remote teams, and with 
 
 # Experience 
 
-**Frontend Developer** - Tashkent | Frontend developer | September 2021 - Present 
+**Frontend Developer** | Tashkent | Frontend developer | September 2021 - Present 
 
 - Creating reusable flexible component
 - Using newest features of Next.js
 - Implementing complex UI / UX in next version ES6+
 
-**Frontend developer and UX/UI Designer at IT-Med** - Tashkent | December 2020 - September 2021
+**Frontend developer and UX/UI Designer at IT-Med** | Tashkent | December 2020 - September 2021
 - Promoted to Senior UX Designer by focusing on user-centered design principles creating simple and intuitive user interfaces that contributed to 100% year on year profit growth.
 - Implemented websites, mobile applications, and landing pages from concept through deployment.
 
