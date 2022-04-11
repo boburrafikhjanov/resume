@@ -12,7 +12,7 @@ I also have experience working in Agile environments, on remote teams, and with 
 - **Language** : Javascript(ES6)
 - **Web development**: HTML, CSS , Sass , Motion-framer, React, Next.js, SWR, PWA, JSx ReactQuery, Rest APIs ,Redux, React – Router v4, React – Redux, Leaflet, Leaflet-Draw, JSON, ChartJS
 - **UX/UI** : Adobe XD, Figma
-- **CSS frameworks** : Ant-design, Bootstrap, Materialize
+- **CSS frameworks** : Ant-design, Bootstrap, Materialize, Tailwind CSS
 - **Additional** : Experience with collaborative development tools (Git , GitHub , Gitlab, Azure repos) , Webpack , Postman , Swagger , Yarn & NPM packages MS Teams , Slack JIRA , pm2
 - **OS** : MacOS, Windows, 7 Ubuntu 16.04, 17.01. 
 
