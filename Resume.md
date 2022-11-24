@@ -4,17 +4,17 @@
 
 [Github]()  |  [LinkedIn](https://www.linkedin.com/in/bobur-rafikhjanov-0b1316209/)  |  [Email](mailto:boburrafikhjanov@gmail.com)
 
-Front-end Developer with experience working on projects involving JavaScript, React , Redux , various styling libraries , HTML/CSS Preprocessors (LESS/SASS), RESTful APIs, web optimization, and version control (Git).
+Front-end Developer with experience working on projects involving JavaScript, Vue, VueX, Nuxt.js various styling libraries, HTML/CSS Preprocessors (LESS/SASS), RESTful APIs, web optimization, and version control (Git).
 I also have experience working in Agile environments, on remote teams, and with various internal/external stakeholders.
 
 # Skills
 
 - **Language** : Javascript(ES6)
-- **Web development**: HTML, CSS , Sass , Motion-framer, React, Next.js, SWR, PWA, JSx ReactQuery, Rest APIs ,Redux, React – Router v4, React – Redux, Leaflet, Leaflet-Draw, JSON, ChartJS
+- **Web development**: HTML, CSS, Sass, Vue, Nuxt.js, SWR, PWA, Rest APIs, Pinia, Vite, Vue – Router v4, JSON, ChartJS
 - **UX/UI** : Adobe XD, Figma
-- **CSS frameworks** : Ant-design, Bootstrap, Materialize, Tailwind CSS
+- **CSS frameworks** : ElementUi, Bootstrap, Materialize, Tailwind CSS
 - **Additional** : Experience with collaborative development tools (Git , GitHub , Gitlab, Azure repos) , Webpack , Postman , Swagger , Yarn & NPM packages MS Teams , Slack JIRA , pm2
-- **OS** : MacOS, Windows, 7 Ubuntu 16.04, 17.01. 
+- **OS** : MacOS, Windows 
 
 # Experience 
 
